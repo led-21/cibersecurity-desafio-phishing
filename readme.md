@@ -1,4 +1,4 @@
-# Curso Cybersecurity Specialist - Phishing para captura de senhas do Facebook
+# Curso Cybersecurity - Phishing para captura de senhas do Facebook
 
 ## Ferramentas
 - Kali Linux
