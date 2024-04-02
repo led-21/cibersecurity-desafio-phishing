@@ -1,4 +1,4 @@
-# Curso Cibersecurity - Phishing para captura de senhas do Facebook
+# Curso CiberSecurity - Phishing para captura de senhas do Facebook
 
 ## Ferramentas
 - Kali Linux
