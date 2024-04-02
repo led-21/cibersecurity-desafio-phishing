@@ -1,5 +1,11 @@
 # Curso Cibersecurity - Phishing para captura de senhas do Facebook
 
+## Ferramentas
+- Kali Linux
+- setoolkit
+___
+
+## Passo a Passo
 ![alt text](images/Img1.png)
 - Iniciando o setoolkit
 - Tipo de ataque: Social-Engineering Attacks
